@@ -1,0 +1,11 @@
+{
+	"required": true,
+	"package": "org.mythical_studios.sowing.mixin",
+	"compatibilityLevel": "JAVA_21",
+	"mixins": [
+		"ExampleMixin"
+	],
+	"injectors": {
+		"defaultRequire": 1
+	}
+}
