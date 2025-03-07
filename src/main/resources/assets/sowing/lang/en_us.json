@@ -17,6 +17,12 @@
   "item.sowing.white_yarn": "Yarn (Plain)",
   "item.sowing.yellow_yarn": "Yarn (Colored)",
 
+  "item.sowing.copper_plating": "Outfit Plating",
+  "item.sowing.gold_plating": "Outfit Plating",
+  "item.sowing.iron_plating": "Outfit Plating",
+  "item.sowing.diamond_plating": "Outfit Plating",
+  "item.sowing.netherite_plating": "Outfit Plating",
+
   "itemgroup.sowing_knits": "Sowing Knits",
   "itemgroup.sowing_extras": "Sowing Extras",
 
@@ -40,5 +46,20 @@
   "tooltip.purple": "Color: §5Purple",
   "tooltip.red": "Color: §4Red",
   "tooltip.white": "Color: §fWhite",
-  "tooltip.yellow": "Color: §eYellow"
+  "tooltip.yellow": "Color: §eYellow",
+
+  "tooltip.copper": "Plating Type: §6Copper",
+  "tooltip.gold": "Plating Type: §eGold",
+  "tooltip.iron": "Plating Type: §fIron",
+  "tooltip.diamond": "Plating Type: §bDiamond",
+  "tooltip.netherite": "Plating Type: §8Netherite",
+
+  "tooltip.plating.desc": "Description: Used to add §oExtra§r protection on Clothing",
+
+  "tooltip.teir_none": "Current Plating: None",
+  "tooltip.teir_copper": "Current Plating: §6Copper",
+  "tooltip.teir_gold": "Current Plating: §eGold",
+  "tooltip.teir_iron": "Current Plating: §fIron",
+  "tooltip.teir_diamond": "Current Plating: §bDiamond",
+  "tooltip.teir_netherite": "Current Plating: §8Netherite"
 }

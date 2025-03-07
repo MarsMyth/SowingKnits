@@ -8,6 +8,7 @@ import net.minecraft.registry.Registry;
 import net.minecraft.text.Text;
 import net.minecraft.util.Identifier;
 import org.mythical_studios.sowing.SowingKnits;
+import org.mythical_studios.sowing.init.itemGrouping.ModUpgradeTemplates;
 import org.mythical_studios.sowing.init.itemGrouping.ModYarn;
 
 public class ModItemGroup {
@@ -23,6 +24,11 @@ public class ModItemGroup {
                         .icon(() -> new ItemStack(ModYarn.WHITE_YARN)).entries((displayContext, entries) -> {
 
                             entries.add(ModYarn.WHITE_YARN);
+                            entries.add(ModUpgradeTemplates.COPPER_PLATING);
+                            entries.add(ModUpgradeTemplates.GOLD_PLATING);
+                            entries.add(ModUpgradeTemplates.IRON_PLATING);
+                            entries.add(ModUpgradeTemplates.DIAMOND_PLATING);
+                            entries.add(ModUpgradeTemplates.NETHERITE_PLATING);
 
                         }).build());
 
