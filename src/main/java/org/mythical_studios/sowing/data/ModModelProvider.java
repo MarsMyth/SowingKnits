@@ -3,12 +3,6 @@ package org.mythical_studios.sowing.data;
 import net.fabricmc.fabric.api.datagen.v1.FabricDataOutput;
 import net.fabricmc.fabric.api.datagen.v1.provider.FabricModelProvider;
 import net.minecraft.data.client.*;
-import net.minecraft.util.Identifier;
-import org.mythical_studios.sowing.SowingKnits;
-import org.mythical_studios.sowing.init.ModItems;
-import org.mythical_studios.sowing.init.yarn.ModYarn;
-
-import java.util.Optional;
 
 public class ModModelProvider extends FabricModelProvider {
     public ModModelProvider(FabricDataOutput output) {

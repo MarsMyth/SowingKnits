@@ -1,5 +1,5 @@
 
-package org.mythical_studios.sowing.init.yarn;
+package org.mythical_studios.sowing.init.itemGrouping;
 
 import net.minecraft.item.Item;
 import net.minecraft.registry.Registries;
