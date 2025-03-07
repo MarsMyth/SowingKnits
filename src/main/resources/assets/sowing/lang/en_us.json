@@ -17,6 +17,9 @@
   "item.sowing.white_yarn": "Yarn (Plain)",
   "item.sowing.yellow_yarn": "Yarn (Colored)",
 
+  "itemgroup.sowing_knits": "Sowing Knits",
+  "itemgroup.sowing_extras": "Sowing Extras",
+
   "tooltip.shift": "Press §o§lShift§r to view details",
   "tooltip.spacer": " ",
   "tooltip.detail": "Detail: ",

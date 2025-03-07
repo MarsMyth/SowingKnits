@@ -2,6 +2,7 @@ package org.mythical_studios.sowing;
 
 import net.fabricmc.api.ModInitializer;
 
+import org.mythical_studios.sowing.init.ModItemGroup;
 import org.mythical_studios.sowing.init.ModItems;
 import org.mythical_studios.sowing.init.itemGrouping.ModYarn;
 import org.slf4j.Logger;
@@ -18,6 +19,8 @@ public class SowingKnits implements ModInitializer {
 
 		ModItems.init();
 		ModYarn.init();
+
+		ModItemGroup.init();
 
 	}
 }
