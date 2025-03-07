@@ -18,6 +18,9 @@
 		"main": [
 			"org.mythical_studios.sowing.SowingKnits"
 		],
+		"client": [
+			"org.mythical_studios.sowing.SowingKnitsClient"
+		],
 		"fabric-datagen": [
 			"org.mythical_studios.sowing.SowingKnitsDataGenerator"
 		]

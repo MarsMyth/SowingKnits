@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "sowing:item/yarn/yellow_yarn"
+  }
+}
