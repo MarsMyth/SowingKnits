@@ -23,12 +23,12 @@ with the "wanted feature" label and we might add it in going forward with future
 Supported Versions:
 ==========
 
-| Overview                      | Support Types  |
-|-------------------------------|----------------|
-| 1.21.2 --> 1.21.4 - Fabric    | To be Skipped  |
-| 1.21.2 --> 1.21.4 - Neoforged | To be Skipped  |
-| 1.21.1 - Fabric               | In Development |
-| 1.21.1 - Neoforged            | TBA            |
+| Overview                      | Support Types   |
+|-------------------------------|-----------------|
+| 1.21.2 --> 1.21.4 - Fabric    | To be Skipped   |
+| 1.21.2 --> 1.21.4 - Neoforged | To be Skipped   |
+| 1.21.1 - Fabric               | In Development  |
+| 1.21.1 - Neoforged            | To be Developed |
 
 
 Additional Resources:
