@@ -19,7 +19,7 @@ repositories {
 		}
 	}
 
-
+	maven { url "https://maven.shedaniel.me" }
 }
 
 fabricApi {
@@ -46,6 +46,11 @@ dependencies {
 	include modApi('teamreborn:energy:4.1.0') {
 		exclude(group: "net.fabricmc.fabric-api")
 	}
+
+	// REI
+
+	modCompileOnly "me.shedaniel:RoughlyEnoughItems-api-fabric:${rei_version}"
+	modRuntimeOnly "me.shedaniel:RoughlyEnoughItems-fabric:${rei_version}"
 	
 }
 
