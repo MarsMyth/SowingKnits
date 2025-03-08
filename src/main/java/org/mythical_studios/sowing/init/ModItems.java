@@ -8,9 +8,11 @@ import org.mythical_studios.sowing.SowingKnits;
 
 public class ModItems {
 
+    public static Item OUTFIT_REPAIR_KIT;
 
     public static void init() {
 
+        OUTFIT_REPAIR_KIT = createItem("outfit_repair_kit", new Item(new Item.Settings()));
 
     }
 
