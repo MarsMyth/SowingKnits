@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "d": {
+      "item": "minecraft:yellow_dye"
+    },
+    "y": {
+      "tag": "sowing:yarn"
+    }
+  },
+  "pattern": [
+    "yd"
+  ],
+  "result": {
+    "count": 1,
+    "id": "sowing:yellow_yarn"
+  }
+}
